@@ -1,3 +1,7 @@
-function skillMember() {
-  console.log('skillMember')
+function skillsMember() {
+    return {
+        restrict: {
+            restrict: 'E'
+        },
+    }
 }
