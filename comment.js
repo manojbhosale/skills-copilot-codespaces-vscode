@@ -1,5 +1,4 @@
 // create web server with node.js
-// 2016-03-23
 
 var express = require('express');
 var bodyParser = require('body-parser');
